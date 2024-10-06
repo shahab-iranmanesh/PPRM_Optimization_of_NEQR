@@ -1,5 +1,6 @@
 # PPRM_Optimization_of_NEQR
-## Gate Optimization of NEQR Quantum Circuits via PPRM Transformation
+## Gate Optimization of NEQR Quantum Circuits via PPRM Transformation 
+https://doi.org/10.48550/arXiv.2409.14629
 
 ### Abstract
 
